@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Theivendran</title>
+    <link>https://kevintheivendran.com/</link>
+    <description>Recent content on Kevin Theivendran</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Aug 2025 16:03:18 -0400</lastBuildDate>
+    <atom:link href="https://kevintheivendran.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts</title>
+      <link>https://kevintheivendran.com/thoughts/</link>
+      <pubDate>Wed, 13 Aug 2025 16:03:18 -0400</pubDate>
+      <guid>https://kevintheivendran.com/thoughts/</guid>
+      <description>&lt;p&gt;Below, you can find my thoughts on anything. Life lessons, the energy transition, sustainable development, academia, feelings. You name it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://kevintheivendran.com/projects/</link>
+      <pubDate>Wed, 13 Aug 2025 15:45:00 -0400</pubDate>
+      <guid>https://kevintheivendran.com/projects/</guid>
+      <description>&lt;p&gt;Welcome to my projects — a collection of ventures, experiments, and collaborations where I’ve applied science, technology, and entrepreneurship to real-world problems.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-agrimalawi&#34;&gt;🌾 AgriMalawi&lt;/h3&gt; &lt;p&gt;Developed microfinancing models to support farmer financing in Malawi.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-mandulis-energy&#34;&gt;⚡ Mandulis Energy&lt;/h3&gt; &lt;p&gt;Internship focused on clean energy access and biomass infrastructure in Uganda. Worked on energy system modeling and community engagement.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-solar-subsidy-model&#34;&gt;☀️ Solar Subsidy Model&lt;/h3&gt; &lt;p&gt;Wrote a paper to promote the use of AI in predicting solar viability and target subsidies in underserved regions. Currently testing with local partners.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Essays</title>
+      <link>https://kevintheivendran.com/essays/</link>
+      <pubDate>Tue, 15 Jul 2025 14:02:45 -0400</pubDate>
+      <guid>https://kevintheivendran.com/essays/</guid>
+      <description>&lt;p&gt;Welcome to my essay collection — a space where I explore complex intersections between climate tech, equity, and innovation. I write to make sense of difficult questions, build clarity from chaos, and share ideas that might spark something in someone else.&lt;/p&gt;&#xA;&lt;p&gt;Here are a few recent pieces:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-energy-transitions-beyond-the-west&#34;&gt;🌍 Energy Transitions Beyond the West&lt;/h3&gt; &lt;p&gt;A look at how developing economies are leapfrogging fossil infrastructure with decentralized clean energy — and why Western models often miss the mark.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
