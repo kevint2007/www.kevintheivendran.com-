@@ -1,7 +1,7 @@
 +++
 date = '2025-07-15T14:02:45-04:00'
 draft = false
-title = 'Essays'
+title = 'Thoughts'
 +++
 Welcome to my essay collection — a space where I explore complex intersections between climate tech, equity, and innovation. I write to make sense of difficult questions, build clarity from chaos, and share ideas that might spark something in someone else.
 
