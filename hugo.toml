@@ -1,7 +1,7 @@
-baseURL = 'https://kevintheivendran.com/'
-languageCode = 'en-us'
-title = 'Kevin Theivendran'
-theme = 'hugo-theme-console'
+baseURL = "https://kevintheivendran.com/"
+languageCode = "en-us"
+title = "Kevin Theivendran"
+theme = "hugo-theme-console"
 
 [[menu.main]]
 name = "Projects"

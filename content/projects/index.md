@@ -7,8 +7,16 @@ title = 'Projects'
 Welcome to my projects — a collection of ventures, experiments, and collaborations where I’ve applied science, technology, and entrepreneurship to real-world problems.
 
 ---
+### 🌐 Platforms
+- [Medium](https://medium.com/@theivem001)  
+- [YouTube](https://www.youtube.com/channel/UC3BWXJTCtX2XRWowRzWS46g)  
+- [Substack](https://substack.com/home?utm_source=user-menu)  
+- [LinkedIn](https://www.linkedin.com/in/kevin-theivendran-0ab344233/?originalSubdomain=ca)
+
+---
+
 ### 🌾 AgriMalawi
-Developed microfinancing models to support farmer financing in Malawi. 
+Developed microfinancing models to support farmer financing in Malawi. In the process of securing grants
 
 ### ⚡ Mandulis Energy
 Internship focused on clean energy access and biomass infrastructure in Uganda. Worked on energy system modeling and community engagement.
