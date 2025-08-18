@@ -18,6 +18,9 @@ Welcome to my projects — a collection of ventures, experiments, and collaborat
 ### 🌾 AgriMalawi
 Developed microfinancing models to support farmer financing in Malawi. In the process of securing grants
 
+### 🌿 Villars Institute Ecopreneurship  
+Selected for the Villars Institute’s Ecopreneurship program focused on systems thinking and regenerative innovation. Collaborating with global changemakers to design scalable solutions for climate resilience.
+
 ### ⚡ Mandulis Energy
 Internship focused on clean energy access and biomass infrastructure in Uganda. Worked on energy system modeling and community engagement.
 
