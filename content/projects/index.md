@@ -15,8 +15,8 @@ Welcome to my projects — a collection of ventures, experiments, and collaborat
 
 ---
 
-### 🌾 AgriMalawi
-Developed microfinancing models to support farmer financing in Malawi. In the process of securing grants
+### 🌾 AgriLanka
+Working on a lease-to-own model for solar-powered irrigation pumps to aid smallholder farmers in Sri Lanka.
 
 ### 🌿 Villars Institute Ecopreneurship  
 Selected for the Villars Institute’s Ecopreneurship program focused on systems thinking and regenerative innovation. Collaborating with global changemakers to design scalable solutions in the space of climate.
