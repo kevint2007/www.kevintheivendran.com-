@@ -25,13 +25,13 @@ Through ArcGIS Pro, I Used satellite data to find "hidden markets" for solar ene
 Selected for the Villars Institute’s Ecopreneurship program focused on systems thinking and regenerative innovation. Collaborating with global changemakers to design scalable solutions in the space of climate.
 
 ### ⚡ Mandulis Energy
-Internship focused on clean energy access and biomass infrastructure in Uganda. Worked on energy system modeling and community engagement.
+Remote internship focused on clean energy access and biomass infrastructure in rural Uganda. Alongside my team, I worked on carbon credit certifications for renewable energy sites that would bring electricity to villages. 
 
 ### ☀️ Solar Subsidy Model
 Wrote a paper to promote the use of AI in predicting solar viability and target subsidies in underserved regions. Currently testing with local partners.
 
 ### 🧠 The Knowledge Society
-Global finalist in Microsoft and Maverick Consulting Challenges & Innovate Student solving climate problems using exponential technologies. Focused on energy systems and financial inclusion.
+At The Knowledge Society, I had the opportunity to work with my peers on consulting projects with Microsoft and Maverick, which is an emerging biotech startup. We were named TKS Global Finalists for our outstanding recommendations. 
 
 ---
 
