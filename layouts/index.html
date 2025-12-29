@@ -3,35 +3,45 @@
 {{ define "main" }}
 
 <style>
-  /* 1. NAVIGATION: Pins the links to the top-right corner (Desktop) */
+  /* 1. NAVIGATION CONTAINER: Pins the block to the top-right */
   .nav-links {
     position: absolute;
-    top: 25px;   /* Aligns with the top header prompt */
-    right: 30px; /* Spacing from the right edge */
+    top: 25px;
+    right: 30px;
   }
 
-  /* 2. PROFILE PIC: Added margin so it sits nicely below the header */
+  /* 2. LINK SPACING: This adds the gap between "projects/" and "thoughts/" */
+  .nav-links a {
+    margin-left: 30px;  /* This creates the wide space you wanted */
+    text-decoration: none; /* Keeps it clean */
+  }
+
+  /* 3. PROFILE PIC: Pushed down to clear the header area */
   .profile-pic {
     width: 150px;
     height: 150px;
     border-radius: 50%;
     display: block;
     margin-bottom: 30px;
-    margin-top: 80px; /* Pushes face down to make room */
+    margin-top: 80px;
   }
 
-  /* 3. MOBILE: On phones, keep them centered so they don't squash the header */
+  /* 4. MOBILE LAYOUT: Stacks everything neatly on phones */
   @media (max-width: 768px) {
     .nav-links {
-      position: relative; /* Back to normal flow */
+      position: relative;
       top: auto;
       right: auto;
       text-align: center;
       margin-top: 20px;
       margin-bottom: 20px;
     }
+    .nav-links a {
+      margin-left: 10px; /* Smaller gaps on mobile */
+      margin-right: 10px;
+    }
     .profile-pic {
-      margin-top: 20px; /* Less space needed on mobile */
+      margin-top: 20px;
     }
   }
 </style>
