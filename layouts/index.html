@@ -3,45 +3,55 @@
 {{ define "main" }}
 
 <style>
-  /* 1. NAVIGATION CONTAINER: Pins the block to the top-right */
+  /* --- DESKTOP STYLES (Default) --- */
+  
+  /* Pins links to the top-right corner */
   .nav-links {
     position: absolute;
     top: 25px;
     right: 30px;
   }
 
-  /* 2. LINK SPACING: This adds the gap between "projects/" and "thoughts/" */
+  /* Spacing between links on desktop */
   .nav-links a {
-    margin-left: 30px;  /* This creates the wide space you wanted */
-    text-decoration: none; /* Keeps it clean */
+    margin-left: 30px; 
+    text-decoration: none;
   }
 
-  /* 3. PROFILE PIC: Pushed down to clear the header area */
+  /* Profile picture spacing for desktop */
   .profile-pic {
     width: 150px;
     height: 150px;
     border-radius: 50%;
     display: block;
     margin-bottom: 30px;
-    margin-top: 80px;
+    margin-top: 80px; /* Pushes face down so it doesn't hit the links */
   }
 
-  /* 4. MOBILE LAYOUT: Stacks everything neatly on phones */
+  /* --- MOBILE STYLES (Phones) --- */
   @media (max-width: 768px) {
     .nav-links {
-      position: relative;
+      position: relative; /* Stops it from floating */
       top: auto;
       right: auto;
-      text-align: center;
-      margin-top: 20px;
+      left: 0;
+      width: 100%;        /* CRITICAL FIX: Forces container to span full width */
+      text-align: center; /* PERFECTLY CENTERS the text */
+      margin-top: 10px;
       margin-bottom: 20px;
     }
+
+    /* Balanced spacing for mobile links */
     .nav-links a {
-      margin-left: 10px; /* Smaller gaps on mobile */
-      margin-right: 10px;
+      margin-left: 15px; 
+      margin-right: 15px;
+      display: inline-block;
     }
+
     .profile-pic {
-      margin-top: 20px;
+      margin-top: 10px; /* Less top space needed on mobile since links are stacked */
+      margin-left: auto; /* Centers the image */
+      margin-right: auto;
     }
   }
 </style>
@@ -69,6 +79,3 @@
 </section>
 
 {{ end }}
-
-
-
