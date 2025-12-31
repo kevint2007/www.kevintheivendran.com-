@@ -18,3 +18,5 @@ name = "Content"
 url = "/content/"
 weight = 3
 
+[params]
+  favicon = "/kevin.jpg"
