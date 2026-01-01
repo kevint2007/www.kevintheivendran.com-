@@ -4,10 +4,10 @@ draft = false
 title = 'Projects'
 +++
 
-Welcome to my projects — a collection of ventures, experiments, and collaborations where I’ve applied science, technology, and entrepreneurship to real-world problems.
+Welcome to my projects: a collection of ventures, experiments, and collaborations where I’ve applied my interests in the energy transition, climate finance, Geospatial AI, and Machine Learning. 
 
 ---
-### 🌐 Platforms
+### 🌐 Platforms Where You Can Find My Work
 - [Medium](https://medium.com/@theivem001)  
 - [YouTube](https://www.youtube.com/channel/UC3BWXJTCtX2XRWowRzWS46g)  
 - [Substack](https://substack.com/home?utm_source=user-menu)  
