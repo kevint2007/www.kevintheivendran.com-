@@ -8,7 +8,8 @@ Welcome to my projects: a collection of ventures, experiments, and collaboration
 
 ---
 ### 🌐 Platforms Where You Can Find My Work
-- [Medium](https://medium.com/@theivem001)  
+- [Medium](https://medium.com/@theivem001)
+- [GitHub](https://github.com/kevint2007?tab=repositories)
 - [YouTube](https://www.youtube.com/channel/UC3BWXJTCtX2XRWowRzWS46g)  
 - [Substack](https://substack.com/home?utm_source=user-menu)  
 - [LinkedIn](https://www.linkedin.com/in/kevin-theivendran-0ab344233/?originalSubdomain=ca)
