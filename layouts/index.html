@@ -1,14 +1,16 @@
 {{ define "main" }}
 
 <style>
-  /* --- LIGHT MODE STYLES --- */
-  /* This forces the background to white and text to black when active */
-  html.light-mode, body.light-mode {
-    background-color: #ffffff !important;
-    color: #111111 !important;
+  /* --- DARK MODE STYLES (Overrides the default light theme) --- */
+  body.dark-mode {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
   }
-  body.light-mode a {
-    color: #0056b3 !important; /* A darker blue so links are readable on white */
+  body.dark-mode a {
+    color: #5ea8ff !important; /* Lighter blue so links are readable on dark grey */
+  }
+  body.dark-mode h1, body.dark-mode p, body.dark-mode strong {
+    color: #e0e0e0 !important;
   }
 
   /* --- DESKTOP NAVIGATION --- */
@@ -22,7 +24,7 @@
     text-decoration: none; 
   }
   
-  /* Make the sun/moon icon act like a button */
+  /* Make the toggle icon act like a button */
   .theme-toggle-btn {
     cursor: pointer;
     user-select: none;
@@ -66,7 +68,7 @@
 <nav class="nav-links">
   <a href="/projects/">projects/</a>
   <a href="/thoughts/">thoughts/</a>
-  <a class="theme-toggle-btn" id="theme-toggle">☼</a>
+  <a class="theme-toggle-btn" id="theme-toggle">☾</a>
 </nav>
 
 <section>
@@ -87,27 +89,25 @@
 <script>
   const toggleBtn = document.getElementById("theme-toggle");
   
-  // 1. Check if the user already chose light mode in a previous visit
-  if (localStorage.getItem("theme") === "light") {
-    document.body.classList.add("light-mode");
-    document.documentElement.classList.add("light-mode");
-    toggleBtn.innerText = "☾"; // Switch to Moon icon
+  // 1. Check if the user previously saved dark mode
+  if (localStorage.getItem("theme") === "dark") {
+    document.body.classList.add("dark-mode");
+    toggleBtn.innerText = "☼"; // Change icon to Sun
   } else {
-    toggleBtn.innerText = "☼"; // Stay as Sun icon
+    toggleBtn.innerText = "☾"; // Default to Moon
   }
 
   // 2. Listen for clicks on the icon
   toggleBtn.addEventListener("click", function() {
-    document.body.classList.toggle("light-mode");
-    document.documentElement.classList.toggle("light-mode");
+    document.body.classList.toggle("dark-mode");
     
     // Update local storage and the icon based on the current mode
-    if (document.body.classList.contains("light-mode")) {
-      localStorage.setItem("theme", "light");
-      toggleBtn.innerText = "☾"; 
-    } else {
+    if (document.body.classList.contains("dark-mode")) {
       localStorage.setItem("theme", "dark");
       toggleBtn.innerText = "☼"; 
+    } else {
+      localStorage.setItem("theme", "light");
+      toggleBtn.innerText = "☾"; 
     }
   });
 </script>
