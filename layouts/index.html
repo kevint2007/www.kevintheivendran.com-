@@ -1,36 +1,6 @@
 {{ define "main" }}
 
 <style>
-  /* --- DARK MODE STYLES (Overrides the default light theme) --- */
-  body.dark-mode {
-    background-color: #121212 !important;
-    color: #e0e0e0 !important;
-  }
-  body.dark-mode a {
-    color: #5ea8ff !important; /* Lighter blue so links are readable on dark grey */
-  }
-  body.dark-mode h1, body.dark-mode p, body.dark-mode strong {
-    color: #e0e0e0 !important;
-  }
-
-  /* --- DESKTOP NAVIGATION --- */
-  .nav-links {
-    position: absolute;
-    top: 25px;
-    right: 30px;
-  }
-  .nav-links a {
-    margin-left: 30px; 
-    text-decoration: none; 
-  }
-  
-  /* Make the toggle icon act like a button */
-  .theme-toggle-btn {
-    cursor: pointer;
-    user-select: none;
-  }
-
-  /* --- PROFILE PIC --- */
   .profile-pic {
     width: 150px;
     height: 150px;
@@ -39,24 +9,7 @@
     margin-bottom: 30px;
     margin-top: 80px; 
   }
-
-  /* --- MOBILE STYLES --- */
   @media (max-width: 768px) {
-    .nav-links {
-      position: relative; 
-      top: auto;
-      right: auto;
-      left: 0;
-      width: 100%;        
-      text-align: center; 
-      margin-top: 10px;
-      margin-bottom: 20px;
-    }
-    .nav-links a {
-      margin-left: 15px; 
-      margin-right: 15px;
-      display: inline-block;
-    }
     .profile-pic {
       margin-top: 10px; 
       margin-left: auto; 
@@ -65,51 +18,16 @@
   }
 </style>
 
-<nav class="nav-links">
-  <a href="/projects/">projects/</a>
-  <a href="/thoughts/">thoughts/</a>
-  <a class="theme-toggle-btn" id="theme-toggle">☾</a>
-</nav>
-
 <section>
   <img src="/kevin.jpg" alt="Kevin Theivendran" class="profile-pic">
 
   <h1>Hi, I’m Kevin Theivendran 👋</h1>
   <p>I’m a Computer Science and Geography student at the University of Toronto and the co-founder of AgriLanka.</p>
-  
   <p>My work sits at the intersection of <strong>Geospatial AI, climate finance, and the energy transition.</strong> Currently, I am building AI-driven energy access tools with SEforALL.</p>
-  
   <p>My ultimate goal is to become a clean-tech entrepreneur, building systems that deliver tangible, scalable impact to underserved communities.</p>
-  
   <p>Thanks for checking my website out!</p>
   <p><strong><a href="https://kevintheivendran.substack.com/?utm_source=homepage_recommendations&utm_campaign=3336435" target="_blank">📬 Subscribe to my monthly updates</a></strong></p>
   <p>Email: kevintheivendran9@gmail.com</p>
 </section>
-
-<script>
-  const toggleBtn = document.getElementById("theme-toggle");
-  
-  // 1. Check if the user previously saved dark mode
-  if (localStorage.getItem("theme") === "dark") {
-    document.body.classList.add("dark-mode");
-    toggleBtn.innerText = "☼"; // Change icon to Sun
-  } else {
-    toggleBtn.innerText = "☾"; // Default to Moon
-  }
-
-  // 2. Listen for clicks on the icon
-  toggleBtn.addEventListener("click", function() {
-    document.body.classList.toggle("dark-mode");
-    
-    // Update local storage and the icon based on the current mode
-    if (document.body.classList.contains("dark-mode")) {
-      localStorage.setItem("theme", "dark");
-      toggleBtn.innerText = "☼"; 
-    } else {
-      localStorage.setItem("theme", "light");
-      toggleBtn.innerText = "☾"; 
-    }
-  });
-</script>
 
 {{ end }}
