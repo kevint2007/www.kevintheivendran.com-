@@ -42,7 +42,7 @@ Selected for the Villars Institute’s Ecopreneurship program focused on systems
 Remote internship focused on clean energy access and biomass infrastructure in rural Uganda. Alongside my team, I worked on carbon credit certifications for renewable energy sites that would bring electricity to villages. 
 
 ### ☀️ Solar Subsidy Model
-Wrote a paper to promote the use of AI in predicting solar viability and target subsidies in underserved regions. Currently testing with local partners.
+Wrote a paper to promote the use of AI in predicting solar viability and target subsidies in underserved regions.
 
 ### 🧠 The Knowledge Society
 At The Knowledge Society, I had the opportunity to work with my peers on consulting projects with Microsoft and Maverick, which is an emerging biotech startup. We were named TKS Global Finalists for our outstanding recommendations. 
