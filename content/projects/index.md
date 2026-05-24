@@ -8,10 +8,10 @@ A collection of my work at the intersection of **Computer Science** and **Geogra
 
 ### 🌐 Connect & Follow
 * **[GitHub](https://github.com/kevint2007?tab=repositories):** Where I host my Python scripts, geospatial analysis tools, and the source code for my projects.
-* **[Medium](https://medium.com/@theivem001):** Where I publish technical breakdowns of my projects and deep-dives into climate tech.
-* **[Substack](https://substack.com/home?utm_source=user-menu):** My monthly newsletter sharing personal updates, reading lists, and raw thoughts on the energy transition.
-* **[LinkedIn](https://www.linkedin.com/in/kevin-theivendran-0ab344233/?originalSubdomain=ca):** Professional updates and announcements regarding my startups and research.
-* **[YouTube](https://www.youtube.com/channel/UC3BWXJTCtX2XRWowRzWS46g):** Video essays and visual demonstrations of my experiments.
+* **[Medium](https://medium.com/@theivem001):** Where I publish technical breakdowns of my projects.
+* **[Substack](https://substack.com/home?utm_source=user-menu):** My newsletter sharing personal updates, reading lists, and thoughts on the energy transition.
+* **[LinkedIn](https://www.linkedin.com/in/kevin-theivendran-0ab344233/?originalSubdomain=ca):** Professional updates and announcements regarding my projects and research.
+* **[YouTube](https://www.youtube.com/channel/UC3BWXJTCtX2XRWowRzWS46g):** Video explanations of my work & experiences can be found here.
 
 ---
 
