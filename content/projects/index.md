@@ -21,6 +21,9 @@ Developing an agentic AI energy access tool using Streamlit and the OpenAI API i
 ### 🌍 Rice-Radar (Philippines)
 Developing a satellite-based auditing tool to monitor and verify methane-reducing agricultural practices. The project is being built as a technical consultation for Shell to improve sustainability in rice farming.
 
+<br>
+<a href="/Shell%20Deck.pdf" target="_blank"><strong>📄 View the Shell Consultation Deck</strong></a>
+
 ### 📊 Predictive Credit Risk Model (Kenya)
 Developing a predictive risk model for off-grid solar energy adoption. Using Sentinel-1 SAR and NDVI data, the model analyzes vegetation health thresholds to assess financial risk for smallholder farmers.
 
