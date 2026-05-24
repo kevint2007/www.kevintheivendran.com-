@@ -21,8 +21,7 @@ Developing an agentic AI energy access tool using Streamlit and the OpenAI API i
 ### 🌍 Rice-Radar (Philippines)
 Developing a satellite-based auditing tool to monitor and verify methane-reducing agricultural practices. The project is being built as a technical consultation for Shell to improve sustainability in rice farming.
 
-<br>
-<a href="/Shell%20Deck.pdf" target="_blank"><strong>📄 View the Shell Consultation Deck</strong></a>
+**[📄 View the Shell Consultation Deck](/Shell%20Deck.pdf)**
 
 ### 📊 Predictive Credit Risk Model (Kenya)
 Developing a predictive risk model for off-grid solar energy adoption. Using Sentinel-1 SAR and NDVI data, the model analyzes vegetation health thresholds to assess financial risk for smallholder farmers.
@@ -33,10 +32,7 @@ Working on a lease-to-own model for solar-powered irrigation pumps to aid smallh
 ### 🛰️ Geospatial Market Intelligence System (Kenya)
 Through ArcGIS Pro, I used satellite data to find "hidden markets" for solar energy. By analyzing night-light imagery (NASA) and population maps, I built an automated system to identify off-grid communities in Kenya that are large enough for investment but currently have zero electricity.
 
-<img src="/Kevin_Kenya_Solar_Investment_Map_page-0001.jpg" 
-     alt="Kenya Solar Investment Map" 
-     width="100%" 
-     style="border-radius: 8px; margin-top: 15px; border: 1px solid #444;">
+![Kenya Solar Investment Map](/Kevin_Kenya_Solar_Investment_Map_page-0001.jpg)
 
 ### 🌿 Villars Institute Ecopreneurship  
 Selected for the Villars Institute’s Ecopreneurship program focused on systems thinking and regenerative innovation. Collaborating with global changemakers to design scalable solutions in the space of climate.
@@ -51,5 +47,3 @@ Wrote a paper to promote the use of AI in predicting solar viability and target 
 At The Knowledge Society, I had the opportunity to work with my peers on consulting projects with Microsoft and Maverick, which is an emerging biotech startup. We were named TKS Global Finalists for our outstanding recommendations. 
 
 ---
-
-
