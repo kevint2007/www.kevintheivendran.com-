@@ -15,8 +15,8 @@ A collection of my work at the intersection of **Computer Science** and **Geogra
 
 ---
 
-### 🤖 GridPath (Madagascar)
-Developing an agentic AI energy access tool using Streamlit and the OpenAI API in collaboration with SEforALL. Calibrated with Global Electrification Platform datasets, the system runs budget-based site analysis and generates targeted investment portfolios for the Sofia region. It features interactive mapping and automated data exports to streamline clean energy deployment.
+### 🤖 GridPath 
+Developing GridPath, an AI-assisted electrification analytics tool built with Streamlit, Python, and the OpenAI API, with feedback from SEforALL’s Integrated Energy Planning team. Using Global Electrification Platform / OnSSET scenario outputs for Mozambique, the prototype calculates national and province-level metrics for investment, population, household connections, capacity, and mini-grid settlement clusters, while using an LLM only to explain structured results with clear methodology and guardrails.
 
 ### 🌍 Rice-Radar (Philippines)
 Developing a satellite-based auditing tool to monitor and verify methane-reducing agricultural practices. The project is being built as a technical consultation for Shell to improve sustainability in rice farming.
