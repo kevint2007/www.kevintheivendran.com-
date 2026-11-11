@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-A collection of my work at the intersection of **Computer Science** and **Geography**. I build systems that leverage **Geospatial AI** and **climate finance** to tackle the energy transition and improve access for underserved communities.
+A collection of my work at the intersection of **Geographic Data Science** and **Geography**. I build systems that leverage **Geospatial AI** and **climate finance** to tackle the energy transition and improve access for underserved communities.
 
 ---
 
